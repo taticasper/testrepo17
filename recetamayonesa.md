@@ -7,4 +7,6 @@
 sal
 vinagre
 
-añadido algo algo
+añadido ingredientes a batidora.
+batir.
+
